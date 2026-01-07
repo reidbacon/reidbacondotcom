@@ -24,8 +24,8 @@ Also see [Cat Pics](#cat-pics)
 
 
 ## Cat pics
-I am a cat! ![Octocat](./imgs/peyton.png)
-
+I am a cat! ![Peyton1](./imgs/peyton.png)
+Peyton is a very good cat. She was born in 2015 and named after a Denver Broncos football quarterback.
 
 ## Blog posts
 [Check out my first post!](./posts/0.md)
