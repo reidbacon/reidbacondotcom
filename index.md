@@ -28,6 +28,20 @@ I am a cat! ![Peyton1](./imgs/peyton.png)
 Peyton is a very good cat. She was born in 2015 and named after a Denver Broncos football quarterback.
 
 ## Blog posts
-[Check out my first post!](./posts/0.md)
 
-[Post two!](./posts/1.md)
+<table>
+  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Post Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for post in site.posts %}
+    <tr>
+      <td>{{ post.date | date: "%b %d, %Y" }}</td>
+      <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>

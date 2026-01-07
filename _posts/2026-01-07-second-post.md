@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Second post"
+---
+
 Jan 6, 2026
 
 My second blog post! Maybe this one is about basketball.
