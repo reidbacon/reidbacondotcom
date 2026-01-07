@@ -4,7 +4,7 @@ Reidthoughts: Welcome to my blog
 
 Hello and welcome!
 
-This is a webpage by Reid for Reid and whoever else. Reid is a person who lives in Texas (for now). He enjoys spending time with his wife and two (fur)children, Button and Peyton (pictured.)
+This is a webpage by Reid for Reid and whoever else. Reid is a person who will soon be living in Olympia, WA. He enjoys spending time with his wife and two (fur)children, Button and Peyton (pictured.)
 
 ```
 Let's
@@ -29,3 +29,5 @@ Peyton is a very good cat. She was born in 2015 and named after a Denver Broncos
 
 ## Blog posts
 [Check out my first post!](./posts/0.md)
+
+[Post two!](./posts/1.md)
